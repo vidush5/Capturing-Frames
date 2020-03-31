@@ -1,2 +1,2 @@
 # Capturing-Frames
-It contains the code capture the frames in videos
+It contains the source code to capture the frames in videos
